@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #C97634;
+  --header-bg: #423f41;
+  --button-bg: #c97634;
+  --button-bg-hv: #fa8f3
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: 'Roboto', system-ui;
+}
